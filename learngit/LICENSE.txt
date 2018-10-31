@@ -1,1 +1,2 @@
 take a deep breath and clear your mind.
+q can end log instruction.

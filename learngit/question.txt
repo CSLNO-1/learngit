@@ -1,0 +1,3 @@
+take a deep breath and clear your mind.
+q can end log instruction.
+git diff files name.why it doesn't work?
