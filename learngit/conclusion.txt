@@ -1,0 +1,2 @@
+1.git checkout 用于工作区修改撤回，git reset HEAD 用于暂存区修改撤回，版本库中的撤回用git reset--hard
+2.git diff的用法
